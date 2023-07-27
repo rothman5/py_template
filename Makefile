@@ -3,7 +3,7 @@
 # Description : Provides Makefile rules for project navigation.
 
 # Specify the project name here
-name := "Template_v1.0.0"
+name := "DDS_Configurator_v1.0.0"
 
 # Use Bash as the default shell
 SHELL := bash
